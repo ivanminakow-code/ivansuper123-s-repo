@@ -5,6 +5,7 @@
     {
       "name": "YouTube Plus",
       "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "ivansuper123",
       "version": "5.2b4",
       "versionDate": "2026-10-13",
       "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
@@ -15,12 +16,46 @@
     {
       "name": "FilzaJailedDS",
       "bundleIdentifier": "com.34306.filzajailedds",
+      "developerName": "ivansuper123",
       "version": "2.0",
       "versionDate": "2026-10-13",
       "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.0/FilzaJailed.ipa",
       "size": 0,
       "iconURL": "https://www.cypwn.com/assets/ipa/icons/img_6a224ba8b6b238.44714986.jpg",
       "localizedDescription": "FilzaJailedDS is a powerful file manager"
+    },
+    {
+      "name": "TikTok Plus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "ivansuper123",
+      "version": "1.0",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://mega.nz/file/uFFVgRgZ#zXWVQIQf_rsyV3yU2wCnN_beUypwH8QuCzG_RoImglM",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/ipa/icons/img_6a2262df0e1f26.03258243.jpg",
+      "localizedDescription": "Ad-Free TikTok, Downloads & Advanced Features"
+    },
+    {
+      "name": "TrollInstaller",
+      "bundleIdentifier": "com.dhinakg.trollinstallermdc",
+      "developerName": "ivansuper123",
+      "version": "1.0",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://dhinakg.github.io/files/apps/TrollInstallerMDC/TrollInstallerMDC.ipa",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/trollstore/icons/img_6a2281947b6520.06304646.png",
+      "localizedDescription": "TrollInstaller supports MacDirtyCow devices used on iOS 15.0-16.1.2, specifying that they are for use with iPhones & iPads."
+    },
+    {
+      "name": "TrollMisaka",
+      "bundleIdentifier": "com.straight-tamago.trollmisaka",
+      "developerName": "ivansuper123",
+      "version": "2.0-Beta",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://github.com/straight-tamago/TrollMisaka/releases/download/2.0-Beta/TrollMisaka-v2.0.ipa",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/trollstore/icons/img_6a22817cec2c80.03763493.png",
+      "localizedDescription": "TrollMisaka has implemented a TrollStore installer based on the MacDirtyCow and KFD exploits for iOS 14 to iOS 15.7.5."
     }
   ]
 }
