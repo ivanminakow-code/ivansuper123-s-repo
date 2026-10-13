@@ -1,0 +1,26 @@
+{
+  "name": "ivansuper123's repo",
+  "identifier": "com.ivansuper123.repo",
+  "apps": [
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "version": "5.2b4",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/ipa/icons/img_6a224e36a475c1.97143279.jpg",
+      "localizedDescription": "YouTube Mod with Downloads, No Ads & Full Control"
+    },
+    {
+      "name": "FilzaJailedDS",
+      "bundleIdentifier": "com.34306.filzajailedds",
+      "version": "2.0",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.0/FilzaJailed.ipa",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/ipa/icons/img_6a224ba8b6b238.44714986.jpg",
+      "localizedDescription": "FilzaJailedDS is a powerful file manager"
+    }
+  ]
+}
