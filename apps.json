@@ -56,6 +56,28 @@
       "size": 0,
       "iconURL": "https://www.cypwn.com/assets/trollstore/icons/img_6a22817cec2c80.03763493.png",
       "localizedDescription": "TrollMisaka has implemented a TrollStore installer based on the MacDirtyCow and KFD exploits for iOS 14 to iOS 15.7.5."
+    },
+    {
+      "name": "Nicegram_TS",
+      "bundleIdentifier": "com.nicegram.app",
+      "developerName": "ivansuper123",
+      "version": "1.0",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=57bc5963eed980e8466be5bbc63ed6a7",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/trollstore/icons/img_6a229b949bf5e5.30307598.png",
+      "localizedDescription": "Nicegram premium activated"
+    },
+    {
+      "name": "Xinam1ne_1.1.11",
+      "bundleIdentifier": "com.xinam1ne.app",
+      "developerName": "ivansuper123",
+      "version": "1.1.11",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=ee56187275bce57c3a54c7d18c18864b",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/trollstore/icons/img_6a229b9493b953.58970943.png",
+      "localizedDescription": "Dopamine... but better"
     }
   ]
 }
