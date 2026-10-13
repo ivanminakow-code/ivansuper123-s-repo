@@ -1,8 +1,0 @@
-Origin: ivansuper123's repo
-Label: ivansuper123's repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm64
-Components: main
-Description: Мой личный rootless репозиторий
