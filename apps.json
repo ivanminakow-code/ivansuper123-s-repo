@@ -3,15 +3,37 @@
   "identifier": "com.ivansuper123.repo",
   "apps": [
     {
-      "name": "YouTube Plus",
+      "name": "YouTube Plus (iOS 16+)",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "ivansuper123",
       "version": "5.2b4",
       "versionDate": "2026-10-13",
-      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
+      "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-75/21.13.6_YouTubePlus_5.2b4.ipa",
       "size": 0,
       "iconURL": "https://www.cypwn.com/assets/ipa/icons/img_6a224e36a475c1.97143279.jpg",
-      "localizedDescription": "YouTube Mod with Downloads, No Ads & Full Control"
+      "localizedDescription": "YouTube modded with premium features"
+    },
+    {
+      "name": "YouTube Plus (iOS 15)",
+      "bundleIdentifier": "com.google.ios.youtube.legacy",
+      "developerName": "ivansuper123",
+      "version": "5.2b4",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-52/20.21.6_YouTubePlus_5.2b4.ipa",
+      "size": 0,
+      "iconURL": "https://www.cypwn.com/assets/ipa/icons/img_6a224e36a475c1.97143279.jpg",
+      "localizedDescription": "YouTube modded with premium features For old devices"
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "ivansuper123",
+      "version": "1.26.13.0",
+      "versionDate": "2026-10-13",
+      "downloadURL": "https://mincraftipa.com/dl/Minecraft_ipa_ios_1.26.13.0.ipa",
+      "size": 0,
+      "iconURL": "https://ipalibrary.me/wp-content/uploads/2022/08/Minecraft.png",
+      "localizedDescription": "Minecraft IPA Download is an infinite Sandbox crafting game with procedurally generated worlds. It ensures seamless fun with crafting, survival, exploration, and creativity. It comes with huge mountains, majestic biomes, tools, and unlimited resources for free. Here you can break and place blocks like dust, air, dirt, water, and woods to create your dream world. You can Download the Minecraft IPA Latest Version with the freedom to do anything you want."
     },
     {
       "name": "FilzaJailedDS",
