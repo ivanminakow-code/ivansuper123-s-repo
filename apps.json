@@ -1,6 +1,7 @@
 {
   "name": "ivansuper123's repo",
   "identifier": "com.ivansuper123.repo",
+  "iconURL": "https://github.com/ivanminakow-code/ivansuper123-s-repo/blob/main/icon.png?raw=true",
   "apps": [
     {
       "name": "YouTube Plus (iOS 16+)",
