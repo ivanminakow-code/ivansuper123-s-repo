@@ -70,6 +70,17 @@
       "localizedDescription": "TrollMisaka has implemented a TrollStore installer based on the MacDirtyCow and KFD exploits for iOS 14 to iOS 15.7.5."
     },
     {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.dopamine",
+      "developerName": "ivansuper123",
+      "version": "3.0.11",
+      "versionDate": "2026-10-15",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.11/Dopamine.ipa",
+      "size": 0,
+      "iconURL": "https://github.com/opa334/Dopamine/raw/main/App/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
+      "localizedDescription": "A rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64)."
+    },
+    {
       "name": "Xina2_2.1.6~f1",
       "bundleIdentifier": "com.xina2.app",
       "developerName": "ivansuper123",
