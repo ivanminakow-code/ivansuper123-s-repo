@@ -90,6 +90,17 @@
       "size": 0,
       "iconURL": "https://www.cypwn.com/assets/trollstore/icons/img_6a229b94954bb4.72207185.png",
       "localizedDescription": "Xina2… but better"
+    },
+    {
+      "name": "Bunny (pyoncord)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "ivansuper123",
+      "version": "1.0",
+      "versionDate": "2026-10-15",
+      "downloadURL": "https://github.com/DeltAndy123/bunny-ipa/releases/download/69233/Bunny.ipa",
+      "size": 0,
+      "iconURL": "https://raw.githubusercontent.com/DeltAndy123/bunny-ipa/refs/heads/main/icons/BunnyIcon60x60%402x.png",
+      "localizedDescription": "Best Discord client with customization and plugins"
     }
   ]
 }
