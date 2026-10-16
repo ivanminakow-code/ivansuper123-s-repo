@@ -134,6 +134,17 @@
       "size": 0,
       "iconURL": "https://i.pinimg.com/474x/ac/57/66/ac5766aaac9829c7959c4e3e184dfc14.jpg",
       "localizedDescription": "A whattsApp client with functions"
+    },
+    {
+      "name": "Angry Birds Classic",
+      "bundleIdentifier": "com.rovio.angrybirds",
+      "developerName": "ivansuper123",
+      "version": "7.9.6",
+      "versionDate": "2026-10-16",
+      "downloadURL": "https://dl.iosvizor.net/angry-birds-classic/ab-classic-v7.9.6.ipa",
+      "size": 0,
+      "iconURL": "https://iosvizor.com/wp-content/uploads/2018/09/4769.jpg",
+      "localizedDescription": "Classic angry birds game!!"
     }
   ]
 }
