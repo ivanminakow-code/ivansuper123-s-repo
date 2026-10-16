@@ -145,6 +145,17 @@
       "size": 0,
       "iconURL": "https://iosvizor.com/wp-content/uploads/2018/09/4769.jpg",
       "localizedDescription": "Classic angry birds game!!"
+    },
+    {
+      "name": "SynapseJB",
+      "bundleIdentifier": "com.synapse.jb",
+      "developerName": "ivansuper123",
+      "version": "1.0",
+      "versionDate": "2026-10-16",
+      "downloadURL": "https://github.com/ivanminakow-code/ivansuper123-s-repo/releases/download/App/SynapseJB.ipa",
+      "size": 0,
+      "iconURL": "https://via.placeholder.com/512x512.png?text=SynapseJB",
+      "localizedDescription": "SynapseJB"
     }
   ]
 }
