@@ -112,6 +112,28 @@
       "size": 0,
       "iconURL": "https://i.pinimg.com/474x/50/7d/85/507d85c24b9a59c2ea48d0d5672a454c.jpg",
       "localizedDescription": "Delta best executor for roblox 99Unc"
+    },
+    {
+      "name": "Nextgram",
+      "bundleIdentifier": "com.nextgram.app",
+      "developerName": "ivansuper123",
+      "version": "20261001017",
+      "versionDate": "2026-10-16",
+      "downloadURL": "https://github.com/Foxtea267/Nextgram-iOS/releases/download/20261001017/Nextgram.ipa",
+      "size": 0,
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRU-1eEhPTtEuvMaJnT6vTX_ogtiGOb1Hp5RGz2aTow&s",
+      "localizedDescription": "A modern client for telegramm"
+    },
+    {
+      "name": "WhatsApp MOD",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "ivansuper123",
+      "version": "24.8.83",
+      "versionDate": "2026-10-16",
+      "downloadURL": "https://github.com/ivanminakow-code/ivansuper123-s-repo/releases/download/App/_WhatsApp_24.8.83.ipa",
+      "size": 0,
+      "iconURL": "https://i.pinimg.com/474x/ac/57/66/ac5766aaac9829c7959c4e3e184dfc14.jpg",
+      "localizedDescription": "A whattsApp client with functions"
     }
   ]
 }
