@@ -77,7 +77,7 @@
       "versionDate": "2026-10-15",
       "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.11/Dopamine.ipa",
       "size": 0,
-      "iconURL": "https://github.com/opa334/Dopamine/raw/main/App/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024%401x.png",
+      "iconURL": "https://theapplewiki.com/images/applewiki/6/66/Dopamine_icon.png",
       "localizedDescription": "A rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64)."
     },
     {
@@ -101,6 +101,17 @@
       "size": 0,
       "iconURL": "https://raw.githubusercontent.com/DeltAndy123/bunny-ipa/refs/heads/main/icons/BunnyIcon60x60%402x.png",
       "localizedDescription": "Best Discord client with customization and plugins"
+    },
+    {
+      "name": "Delta Executor",
+      "bundleIdentifier": "com.deltaexecutor.app",
+      "developerName": "ivansuper123",
+      "version": "2.741",
+      "versionDate": "2026-10-16",
+      "downloadURL": "https://file.deltaexecutorsios.com/Delta-2.741.ipa",
+      "size": 0,
+      "iconURL": "https://i.pinimg.com/474x/50/7d/85/507d85c24b9a59c2ea48d0d5672a454c.jpg",
+      "localizedDescription": "Delta best executor for roblox 99Unc"
     }
   ]
 }
